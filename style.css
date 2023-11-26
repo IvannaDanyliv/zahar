@@ -1,0 +1,21 @@
+.logo{
+    width: 150px;
+    height: 150px;
+    border-radius: 40%;
+}
+table{
+    border: 2px solid green;
+}
+a{
+    text-decoration: none;
+    color:rgb(75, 75, 125);
+}
+td{
+    border: 2px solid rgb(166, 166, 178);
+}
+img{
+border: 2px solid green;
+}
+body{
+    background-color: rgb(160, 214, 165);
+}
